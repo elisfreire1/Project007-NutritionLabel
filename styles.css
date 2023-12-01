@@ -13,3 +13,8 @@ body{
     margin: 20px auto;
     padding: 0 7px;
 }
+h1{
+    text-align: center;
+    font-weight: 800;
+    margin: -4px 0;
+}
