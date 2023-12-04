@@ -38,3 +38,11 @@ p{
     justify-content: space-between;
     margin: 0;
 }
+
+.large{
+    height: 10px;
+}
+.large, .medium{
+    background-color: black;
+    border: 0;
+  }
