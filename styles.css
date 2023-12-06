@@ -86,6 +86,10 @@ p{
     margin-left: 1em;
 }
 
-.daily-value p{
+/*.daily-value p{
+    border-bottom: 1px solid #888989;
+}*/
+
+.daily-value p:not(.no-divider){
     border-bottom: 1px solid #888989;
 }
